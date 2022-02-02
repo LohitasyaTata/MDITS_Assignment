@@ -1,0 +1,13 @@
+collection customer
+IDs:- '6d2f18e05d79d','f081ddf54c0dc','46db216718222',
+
+
+collection purchase
+Ids:-  'f964ca3ca62e9'|c_id: '6d2f18e05d79d',
+       '9f06b211a0a9f'| c_id: 'f081ddf54c0dc',
+       '63b45c8cf28d1'|c_id: 'f081ddf54c0dc',
+
+
+
+collection shipment
+id:-
